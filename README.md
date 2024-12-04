@@ -47,6 +47,6 @@ Hello there! 👋 I'm an **Undergraduate Statistics Student** with a strong pass
 
 ## 📫 Let's Connect!
 - **LinkedIn**: [Kurniawan Chandra Wijaya](https://www.linkedin.com/in/kurniawan-chandra-wijaya-6b148a2b8/)
-- **Email**: [Kurniawan Chandra Wijaya](kurniawanchandrawi@gmail.com)
+- **Email**: [Kurniawan Chandra Wijaya](mailto:kurniawanchandrawi@gmail.com)
 
 Feel free to explore the repositories and reach out with any questions or collaboration ideas. Let’s solve interesting problems together! 🌍
