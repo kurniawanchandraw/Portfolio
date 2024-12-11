@@ -8,26 +8,7 @@ Hello there! 👋 I'm an **Undergraduate Statistics Student** with a strong pass
 - 🎓 **Field of Study**: Statistics, focusing on mathematical models and data-driven insights.
 - 💡 **Interests**: Building machine learning models, exploring statistical methods, and understanding deep learning architectures.
 - 🛠️ **Skills**: Python, R, LaTeX, data analysis, and visualization.
-
----
-
-## 📂 Featured Projects
-
-### 1. **Causal Inference & Structural Equation Modeling**
-   - Combined SEM and causal inference for a detailed report on socio-economic factors.
-   - Tools: `econml`, `semopy`.
-
-### 2. **Count Data Regression: Cigarette Consumption Analysis**
-   - Analyzed cigarette consumption using Poisson regression and alternative models.
-   - Explored transformations, interactions, and visualizations.
-
-### 3. **Bayesian VAR Forecasting for Indonesia’s Manufacturing Sector**
-   - Predicted key economic metrics up to 2045, aligning with Indonesia’s vision for Golden Indonesia.
-   - Techniques: Bayesian Vector Autoregression, Johansen Cointegration.
-
-### 4. **SRGCNN with Polygon Data**
-   - Modified SRGCNN for spatial data analysis using polygon datasets.
-
+- 
 ---
 
 ## 🧠 Learning Highlights
